@@ -2,9 +2,8 @@
 img_path = "/images/Blog-image-2015-07-29m.jpg"
 layout = "page"
 subtitle = ""
-title = "STRATEGY"
+title = "Marketing"
 [menu.main]
-name = "Marketing"
 weight = 5
 
 +++
