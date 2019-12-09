@@ -1,10 +1,10 @@
 ---
-title: Portfolio
-subtitle: This is an optional subtitle for the portfolio page.
+title: Vision
+subtitle: "“Falling has never been safer.”"
 layout_style: mosaic
+layout: portfolio
 menu:
   main:
-    name: Portfolio
     weight: 2
-layout: portfolio
+
 ---
