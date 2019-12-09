@@ -18,3 +18,7 @@ disableKinds:
 - RSS
 - taxonomy
 - taxonomyTerm
+menu:
+  main:
+  - name: Github
+    weight: 7
