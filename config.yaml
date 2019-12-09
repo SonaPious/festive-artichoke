@@ -21,5 +21,5 @@ disableKinds:
 menu:
   main:
   - url: https://github.com/SonaPious/festive-artichoke.git
-    name: Github
+    name: Github Link
     weight: 7
