@@ -3,6 +3,8 @@ img_path = "/images/finanace.jpg"
 layout = "page"
 subtitle = " The capital amount is 1 lakh dollar."
 title = "Finance"
+[menu.main]
+weight = 6
 
 +++
 Salary  
