@@ -1,5 +1,5 @@
 +++
-img_path = "/images/finanace.jpg"
+img_path = "/images/Finance.2jpg.jpg"
 layout = "page"
 subtitle = " The capital amount is 1 lakh dollar."
 title = "Finance"
@@ -7,23 +7,25 @@ title = "Finance"
 weight = 6
 
 +++
+Cost includes:
+
 Salary  
 Server Cost  
 Rent  
-Customer Acquisition 
+Customer Acquisition
 
 Copyright
 
 Integration of google map
 
 In-app purchase Marketing  
-Research and development 
+Research and development
 
 Insurance
 
 Utilities  
 Printing, postage and stationery
 
-Taxes 
+Taxes
 
 permits and others
