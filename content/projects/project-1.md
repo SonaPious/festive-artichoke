@@ -1,6 +1,6 @@
 ---
-title: Project Title 1
-subtitle: Optional Project Subtitle
+title: Detecting Falls
+subtitle: Feel the confidence in your walks
 date: 2019-05-10
 thumb_img_path: "/images/25727371-helping-hands-male-hand-takes-young-female-hand.jpg"
 content_img_path: ''
