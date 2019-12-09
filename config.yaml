@@ -20,5 +20,6 @@ disableKinds:
 - taxonomyTerm
 menu:
   main:
-  - name: Github
+  - url: https://github.com/SonaPious/festive-artichoke.git
+    name: Github
     weight: 7
