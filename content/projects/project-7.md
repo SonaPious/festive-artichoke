@@ -2,8 +2,8 @@
 title: Safe Walks
 subtitle: Feel the Confidence in your walks
 date: 2018-01-15
-thumb_img_path: "/images/Unknownc.png"
-content_img_path: images/7.jpg
+thumb_img_path: "/images/o-HAPPY-CONFIDENT-WOMAN-facebook.jpg"
+content_img_path: ''
 layout: project
 
 ---
