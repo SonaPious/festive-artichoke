@@ -3,7 +3,7 @@ title: Risk
 subtitle: 'Since the fall detector is an application that helps in the medical industry,
   it includes a lot of risks. '
 layout: page
-img_path: "/images/Unknownrisklast.png"
+img_path: "/images/Businessman-and-sharks.jpg"
 menu:
   main:
     name: Risks
