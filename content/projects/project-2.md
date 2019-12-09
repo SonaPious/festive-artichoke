@@ -6,9 +6,6 @@ thumb_img_path: images/2_thumb.jpg
 content_img_path: images/2.jpg
 layout: project
 img_path: "/images/Blog-image-2015-07-29m.jpg"
-menu:
-  main:
-    weight: 5
 
 ---
 The mobile phone users can easily download my application from the App Store for free cost when they find the app is useful. From the various advertisements of the product, they may get noticed and can download.  
