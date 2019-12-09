@@ -33,6 +33,5 @@ fields:
   config:
     required: true
 pages:
-- content/projects/strategies.md
 - content/projects/project-7.md
 - content/projects/project-1.md
