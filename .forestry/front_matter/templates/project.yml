@@ -33,5 +33,5 @@ fields:
   config:
     required: true
 pages:
-- content/projects/project-7.md
 - content/projects/project-1.md
+- content/projects/project-7.md

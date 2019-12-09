@@ -2,7 +2,7 @@
 title: Detecting Falls
 subtitle: Every falls will be detected
 date: 2019-05-10
-thumb_img_path: "/images/25727371-helping-hands-male-hand-takes-young-female-hand.jpg"
+thumb_img_path: "/images/Unknownhelp.jpg"
 content_img_path: ''
 layout: project
 
