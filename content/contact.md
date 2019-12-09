@@ -3,6 +3,7 @@ title: Contact
 layout: contact
 menu:
   main:
+    name: Finance
     weight: 6
 
 ---
