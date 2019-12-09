@@ -24,6 +24,7 @@ fields:
   config:
     required: true
 pages:
+- content/finance.md
 - content/strategy.md
 - content/style-guide.md
 - content/strategies.md
