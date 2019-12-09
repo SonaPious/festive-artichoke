@@ -33,10 +33,11 @@ sections:
       leaves the house as part of their daily routines, the sudden medical problems
       can be saved with the immediate reaction of someone. There is where my application
       can be helpful.
-  - title: Service Title
-    content: 'Donec lobortis velit sed suscipit lobortis. Ut non quam metus. Nullam
-      a maximus mi. Quisque justo nunc, sollicitudin euismod euismod at, tincidunt
-      ut tellus. Vivamus rhoncus mattis varius. '
+  - title: ''
+    content: If the falling detection application can be developed and people installed
+      in their mobile phones, it will detect their mental conditions and give warnings
+      to them when they face any physical conditions. Besides, the application will
+      detect the different types of falls which a human being can have.
 - type: testimonialsblock
   template: testimonialsblock
   title: Testimonials
