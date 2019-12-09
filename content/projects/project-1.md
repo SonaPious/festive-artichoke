@@ -1,6 +1,6 @@
 ---
 title: Detecting Falls
-subtitle: Feel the confidence in your walks
+subtitle: Every falls will be detected
 date: 2019-05-10
 thumb_img_path: "/images/25727371-helping-hands-male-hand-takes-young-female-hand.jpg"
 content_img_path: ''
