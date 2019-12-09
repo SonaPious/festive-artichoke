@@ -4,87 +4,37 @@ subtitle: The style guide provides you with a blueprint of default post and page
   The style guide is also a great reference for suggested typographic treatment and
   styles for your content.
 layout: page
+img_path: "/images/Unknownrisk.jpg"
 menu:
   main:
     name: Risks
     weight: 4
 
 ---
-**This is a paragraph**. Pellentesque habitant morbi *tristique senectus et netus et malesuada* fames ac turpis egestas. Vestibulum [tortor quam](https://www.google.com), feugiat vitae, ultricies eget, tempor sit amet, ante. Donec eu libero sit amet quam egestas semper. Aenean ultricies mi vitae est. Mauris placerat eleifend leo. Quisque sit <mark>amet est et sapien ullamcorper</mark> pharetra. Vestibulum erat wisi, condimentum sed, commodo vitae, ornare sit amet, wisi.
+Since the fall detector is an application that helps in the medical industry, it includes a lot of risks. 
 
-# This is an H1
+1\. UNCERTAINTY  
+The very concept of fall detection is currently available in the market. Though not, in the same way, I am proposing it. So, until and otherwise come with the further strategic modifications or innovations to the product, there is a high risk for my product for being confronted with strategic risk soon.
 
-Quisque facilisis erat a dui. Nam malesuada ornare dolor. Cras gravida, this is marked text ornare, erat elit consectetuer erat, id egestas pede nibh eget odio. Proin tincidunt, velit vel porta elementum, magna diam molestie sapien, non aliquet massa pede eu diam. Aliquam iaculis. Fusce et ipsum et nulla tristique facilisis.
+2\. DEVELOPMENT Of SIMILAR APPLICATIONS  
+The fall detector is going to develop in an open-source platform, it is easy for others to develop a similar or updated version of a fall detector. What they only need to copyright the fall detector. There are possible ways to raise applications like fall detector So, it affects the credibility of the application and people always choose better and updated technologies.
 
-## This is an H2
+3\. UNKNOWNS FALLS AND WRONG INFORMATION CAN BE SENT  
+The detector detects every fall of the phones. When a cell phone falls unknowingly by the user, the user cannot react to the vibration and it will send undesired information to the emergency medical service. This will result in the immediate action of the medical team. But their action is going to be meaningless and they waste their valuable time to help somebody else who is exactly facing any crucial situation.
 
-Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Morbi commodo, ipsum sed pharetra gravida, orci magna rhoncus neque, id pulvinar odio lorem non turpis. Nullam sit amet enim. Suspendisse id velit vitae ligula volutpat condimentum. Aliquam erat volutpat. Sed quis velit. Nulla facilisi. Nulla libero.
+4\. EXISTENCE OF WEARABLE SENSORS
 
-### This is an H3
+To monitor the mobility, accelerometers and gyroscopes are used in fall detector systems. But studies report that the comfort of wearable sensors is important in fall detection and it also gives more accuracy in sensor a fall.  
+Also, seniors prefer wearable sensors like watches and body attachable devices for detecting falls instead of carrying cell phones. Such devices can also measure the level of blood pressure and hypertension of the body.
 
-Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Morbi commodo, ipsum sed pharetra gravida, orci magna rhoncus neque, id pulvinar odio lorem non turpis. Nullam sit amet enim. Suspendisse id velit vitae ligula volutpat condimentum. Aliquam erat volutpat. Sed quis velit. Nulla facilisi. Nulla libero.
+5\. CHALLENGES FROM PHONE ACCESSORIES  
+There are plenty of safety phone cases with extra hardcovers available in the market, which can prevail in the app from determining the accuracy of the fall. So, to make the application with more accurate sensors is also a technological risk that must be overcome.
 
-#### This is an H4
+6\. PRIVACY AND SECURITY CONCERN  
+Fall detector always asks for certain details about the users at the time of installing the application. That includes name, address, age, details of the guardian, health and it also access the location, wherever the user goes. This matters a few of the users because people these days are not wanting to reveal their identity and other relating information to others. It also makes easy access to hackers. Thus, people probably hesitate to download and use the fall detector.  
+The possible amendments in the existing privacy laws in the coming years can affect the existence of an operation of the application.
 
-Quisque facilisis erat a dui. Nam malesuada ornare dolor. Cras gravida, diam sit amet rhoncus ornare, erat elit consectetuer erat, id egestas pede nibh eget odio. Proin tincidunt, velit vel porta elementum, magna diam molestie sapien, non aliquet massa pede eu diam. Aliquam iaculis.
+7\. FINANCIAL AGENDA AND TEAM ORGANIZATION
 
-## Quoting
-
-Lorem ipsum dolor sit amet, consectetuer adipiscing elit.
-
->Creativity is allowing yourself to make mistakes. Design is knowing which ones to keep. <cite>Scott Adams</cite>
-
-Morbi commodo, ipsum sed pharetra gravida, orci magna rhoncus neque, id pulvinar odio lorem non turpis. Nullam sit amet enim. Suspendisse id velit vitae ligula volutpat condimentum. Aliquam erat volutpat. Sed quis velit. Nulla facilisi. Nulla libero.
-
-<hr />
-
-## Unordered Lists
-
-+ Donec non tortor in arcu mollis feugiat
-+ Lorem ipsum dolor sit amet, consectetuer adipiscing elit
-+ Donec id eros eget quam aliquam gravida
-+ Vivamus convallis urna id felis
-+ Nulla porta tempus sapien
-
-## Ordered Lists
-
-1. Donec non tortor in arcu mollis feugiat
-2. Lorem ipsum dolor sit amet, consectetuer adipiscing elit
-3. Donec id eros eget quam aliquam gravida
-4. Vivamus convallis urna id felis
-5. Nulla porta tempus sapien
-
-## Code Blocks
-
-Blocks of code are either fenced by lines with three back-ticks, or are indented with four spaces.
-
-```
-<!-- Some example CSS code -->
-body {
-  color:red;
-}
-```
-
-## Tables
-
-<table>
-    <caption>Table with thead, tfoot, and tbody</caption>
-  <thead>
-    <tr>
-      <th>Header content 1</th>
-      <th>Header content 2</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td>Body content 1</td>
-      <td>Body content 2</td>
-    </tr>
-  </tbody>
-  <tfoot>
-    <tr>
-      <td>Footer content 1</td>
-      <td>Footer content 2</td>
-    </tr>
-  </tfoot>
-</table>
+My product has something to do more with social responsibility, it is my responsibility to divide the revenue between social causes, business developments, and personal benefits in a proper way.  
+By creating a proper agenda about channelizing financial resources as well as the revenues effectively with team members having a proper vision, there is a high chance of being met with financial risk.
