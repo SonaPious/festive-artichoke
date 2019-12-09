@@ -1,16 +1,11 @@
 ---
 title: Project Title 1
 subtitle: Optional Project Subtitle
-date: '2019-05-10'
-thumb_img_path: images/1_thumb.jpg
-content_img_path: images/1.jpg
+date: 2019-05-10
+thumb_img_path: "/images/25727371-helping-hands-male-hand-takes-young-female-hand.jpg"
+content_img_path: ''
 layout: project
+
 ---
-
-Vis accumsan feugiat adipiscing nisl amet adipiscing accumsan blandit accumsan sapien blandit ac amet faucibus aliquet placerat commodo. Interdum ante aliquet commodo accumsan vis phasellus adipiscing. Ornare a in lacinia. Vestibulum accumsan ac metus massa tempor. Accumsan in lacinia ornare massa amet. Ac interdum ac non praesent. Cubilia lacinia interdum massa faucibus blandit nullam. Accumsan phasellus nunc integer. Accumsan euismod nunc adipiscing lacinia erat ut sit. Arcu amet. Id massa aliquet arcu accumsan lorem amet accumsan.
-
->"A designer knows he has achieved perfection not when there is nothing left to add, but when there is nothing left to take away." -Antoine de Saint-Exupery
-
-Amet nibh adipiscing adipiscing. Commodo ante vis placerat interdum massa massa primis. Tempus condimentum tempus non ac varius cubilia adipiscing placerat lorem turpis at. Aliquet lorem porttitor interdum. Amet lacus. Aliquam lobortis faucibus blandit ac phasellus. In amet magna non interdum volutpat porttitor metus a ante ac neque. Nisi turpis. Commodo col. Interdum adipiscing mollis ut aliquam id ante adipiscing commodo integer arcu amet Ac interdum ac non praesent. Cubilia lacinia interdum massa faucibus blandit nullam. Accumsan phasellus nunc integer. Accumsan euismod nunc adipiscing lacinia erat ut sit. Arcu amet. Id massa aliquet arcu accumsan lorem amet accumsan commodo odio cubilia ac eu interdum placerat placerat arcu commodo lobortis adipiscing semper ornare pellentesque.
-
-Amet nibh adipiscing adipiscing. Commodo ante vis placerat interdum massa massa primis. Tempus condimentum tempus non ac varius cubilia adipiscing placerat lorem turpis at. Aliquet lorem porttitor interdum. Amet lacus. Aliquam lobortis faucibus blandit ac phasellus. In amet magna non interdum volutpat porttitor metus a ante ac neque. Nisi turpis. Commodo col. Interdum adipiscing mollis ut aliquam id ante adipiscing commodo integer arcu amet blandit adipiscing arcu ante.
+Mobile phones are the widely available consumer product and that is the only one which people usually keep with them as part of their daily life. Even the money wallets and car keys are replaced by mobile wallets and mobile car starts.  
+By installing the fall detector in mobile, it enables the consumer to feel confident and safe in their lifestyle. So, keeping the software in a cell phone enables medical specialists to link directly to the users in emergency situations. The application identifies the falls of users and responds to them in different ways such as sending messages to the emergency contacts in their phones, calling 911 service if a fall is identified as a big one and the user is not able to cancel the service. The application even keeps a track on the location of the user if the user is moving further unknowingly as an effect of the fall. Since it waits for a few seconds for the response of the phone holder to send the message, the holder can deny the service if the fall is not serious. Hence, this application provides people more confidence in their life so that they are not even afraid to do adventures in their life, not to fall in their life. If they fall, the product will play a major role in the rescue mission. Our Tagline summarizes the vision statement that is “no fall is a big fall”.
