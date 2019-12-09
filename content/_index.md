@@ -42,6 +42,10 @@ sections:
     content: The app makes a vibration to the phone when the mobile phone holder falls.
       Within the limited period of seconds, unless the holder stopped the vibration,
       the fall detector automatically sends messages to the pre-selected contacts.
+  - title: ''
+    content: Accelerometer and gyroscope can be used as the assistors of this innovation.
+      Since, these two features are already installed in every mobile phone, even
+      in cheap phones, the development of this application gets a wide reach.
 - type: testimonialsblock
   template: testimonialsblock
   title: Testimonials
