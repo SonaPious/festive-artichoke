@@ -38,6 +38,10 @@ sections:
       in their mobile phones, it will detect their mental conditions and give warnings
       to them when they face any physical conditions. Besides, the application will
       detect the different types of falls which a human being can have.
+  - title: ''
+    content: The app makes a vibration to the phone when the mobile phone holder falls.
+      Within the limited period of seconds, unless the holder stopped the vibration,
+      the fall detector automatically sends messages to the pre-selected contacts.
 - type: testimonialsblock
   template: testimonialsblock
   title: Testimonials
