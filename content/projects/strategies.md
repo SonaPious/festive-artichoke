@@ -5,6 +5,8 @@ layout = "project"
 subtitle = "FREE COST"
 thumb_img_path = "/images/Runnerup2.jpg"
 title = "Strategies"
+[menu.main]
+weight = 3
 
 +++
 The developed application will be available in the different app stores and that can be downloaded by the customers without any cost. Product differentiation will below, and the app is readily available for any kind of user and becomes helpful irrespective of age category.
