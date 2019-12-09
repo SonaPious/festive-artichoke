@@ -1,18 +1,12 @@
 ---
-title: Project Title 7
-subtitle: Optional Project Subtitle
-date: '2018-01-15'
-thumb_img_path: images/7_thumb.jpg
+title: Safe Walks
+subtitle: Feel the Confidence in your walks
+date: 2018-01-15
+thumb_img_path: "/images/Unknownc.png"
 content_img_path: images/7.jpg
 layout: project
+
 ---
+The launch of the fall detector is going to be beneficial for all the mobile phone users. Because it gives protection to the users when they hit into an accident or something unusual. Fall detector has taken a lot of heat for the safety measures of the public. Normally, people who come in 15 to 80 age group use their own cell phones and by installing the fall detector, it highlights everything that sucks about the provision on their way. The main value that the customer gets from the fall detector application is its convenient usage for free. It also acts as the unique selling proposition of our
 
-Diam maecenas sed enim ut sem. Nisl purus in mollis nunc sed id semper. Dictum sit amet justo donec enim diam vulputate ut pharetra. Eget velit aliquet sagittis id consectetur purus ut. Auctor neque vitae tempus quam pellentesque nec. Sed enim ut sem viverra aliquet eget. Eleifend donec pretium vulputate sapien nec sagittis aliquam malesuada. Enim tortor at auctor urna nunc id cursus. Fermentum et sollicitudin ac orci phasellus. Nunc non blandit massa enim nec dui. Cursus euismod quis viverra nibh cras pulvinar. Accumsan in nisl nisi scelerisque eu ultrices vitae auctor. Dui vivamus arcu felis bibendum ut.
-
-Sed risus pretium quam vulputate dignissim suspendisse in est. Vitae auctor eu augue ut lectus arcu. Tristique magna sit amet purus. Aliquet enim tortor at auctor urna nunc. Id leo in vitae turpis massa sed elementum tempus. Egestas maecenas pharetra convallis posuere morbi leo urna molestie at. Amet consectetur adipiscing elit duis tristique sollicitudin. Egestas sed sed risus pretium quam vulputate. Nunc eget lorem dolor sed viverra ipsum nunc. Consequat mauris nunc congue nisi vitae suscipit tellus. Fames ac turpis egestas maecenas pharetra convallis posuere morbi leo. Et ultrices neque ornare aenean euismod elementum nisi quis. Varius morbi enim nunc faucibus a pellentesque sit amet. Vitae proin sagittis nisl rhoncus mattis rhoncus urna. In mollis nunc sed id semper risus in hendrerit gravida.
-
->"Design is not a single object or dimension. Design is messy and complex." - Natasha Jen
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Morbi tincidunt augue interdum velit euismod in. Justo laoreet sit amet cursus sit amet dictum sit. Viverra aliquet eget sit amet. Scelerisque varius morbi enim nunc faucibus a pellentesque sit. Lectus nulla at volutpat diam ut venenatis tellus. Nunc consequat interdum varius sit. Ultrices neque ornare aenean euismod elementum. Ante metus dictum at tempor commodo. Sed vulputate odio ut enim blandit volutpat maecenas volutpat blandit. Etiam non quam lacus suspendisse faucibus interdum posuere lorem.
-
-Aliquet nibh praesent tristique magna sit amet purus. Tincidunt nunc pulvinar sapien et ligula ullamcorper. Lacus sed viverra tellus in. Fringilla phasellus faucibus scelerisque eleifend donec pretium vulputate. Bibendum neque egestas congue quisque egestas diam in. Iaculis nunc sed augue lacus viverra. Sagittis orci a scelerisque purus. Cursus mattis molestie a iaculis at erat pellentesque adipiscing commodo. Vulputate sapien nec sagittis aliquam malesuada bibendum arcu vitae elementum. Arcu dictum varius duis at. Eleifend mi in nulla posuere sollicitudin aliquam ultrices. Velit scelerisque in dictum non consectetur a erat nam at. Cum sociis natoque penatibus et magnis dis parturient montes nascetur. Adipiscing commodo elit at imperdiet dui. Sed tempus urna et pharetra pharetra. Imperdiet sed euismod nisi porta lorem mollis aliquam ut. Ultricies mi eget mauris pharetra et ultrices neque. Et malesuada fames ac turpis egestas sed tempus urna et. At tempor commodo ullamcorper a.
+product. Unlike other similar products or devices available in the market, this application can be installed in any smartphones, irrespective of the Operating System, at free of cost without any limitations to the services provided. Fundamentally, this application helps or protects the customer in their daily lives without any cost. On the other hand, as the service provider, we get money from each download of the application as well as from the small advertises in the application. As a responsible citizen, by providing this application for a customer at free of cost, I am becoming a part of community service, where everyone can be safe and happy in their own way.
