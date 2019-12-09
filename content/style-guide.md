@@ -1,17 +1,15 @@
 ---
 title: Risk
-subtitle: The style guide provides you with a blueprint of default post and page styles.
-  The style guide is also a great reference for suggested typographic treatment and
-  styles for your content.
+subtitle: 'Since the fall detector is an application that helps in the medical industry,
+  it includes a lot of risks. '
 layout: page
-img_path: "/images/Unknownrisk.jpg"
+img_path: "/images/Risk.jpg"
 menu:
   main:
     name: Risks
     weight: 4
 
 ---
-Since the fall detector is an application that helps in the medical industry, it includes a lot of risks. 
 
 1\. UNCERTAINTY  
 The very concept of fall detection is currently available in the market. Though not, in the same way, I am proposing it. So, until and otherwise come with the further strategic modifications or innovations to the product, there is a high risk for my product for being confronted with strategic risk soon.
